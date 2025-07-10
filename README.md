@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Banner](https://github.com/AngelRojo20/AngelRojo20/blob/main/MIGUEL ÁNGEL BOHADA LÓPEZ Fullstack Developer.gif?raw=true)
+![Banner](https://github.com/AngelRojo20/AngelRojo20/blob/main/banner-miguel-bohada.gif?raw=true)
+
 
 
 <!--
