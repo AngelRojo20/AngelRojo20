@@ -1,5 +1,4 @@
-![Banner](https://github.com/AngelRojo20/AngelRojo20/blob/main/banner-miguel-bohada.gif?raw=true)
-
+![Banner](https://github.com/AngelRojo20/AngelRojo20/blob/main/banner-miguel-bohada-compatible.gif?raw=true)
 
 
 <!--
