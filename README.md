@@ -1,5 +1,8 @@
 ![Banner](https://github.com/AngelRojo20/AngelRojo20/blob/main/banner-miguel-bohada.gif?raw=true)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelrojo20&show_icons=true&locale=en&layout=compact" alt="angelrojo20" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelrojo20&show_icons=true&locale=en" alt="angelrojo20" /></p>
 
 <!--
 **AngelRojo20/AngelRojo20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
