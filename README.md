@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Banner](https://github.com/AngelRojo20/AngelRojo20/blob/main/MIGUEL ÁNGEL BOHADA LÓPEZ Fullstack Developer.gif?raw=true)
+
+
 <!--
 **AngelRojo20/AngelRojo20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
