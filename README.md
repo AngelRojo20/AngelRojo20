@@ -1,4 +1,5 @@
-![Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBmYXdybXZoa2E3dDltN2NhZTI4MjNuaGp4ejJ4NDVrZnpnMnl5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PYJXABqq47EoMvMtGX/giphy.gif)
+![Banner](https://github.com/AngelRojo20/AngelRojo20/blob/main/banner-miguel-bohada.gif?raw=true)
+
 
 <!--
 **AngelRojo20/AngelRojo20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
