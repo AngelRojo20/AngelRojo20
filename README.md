@@ -1,4 +1,5 @@
-![Banner](https://res.cloudinary.com/du0eae8lu/image/upload/v1752165629/banner-miguel-bohada-compatible_odde80.gif)
+![Banner](https://res.cloudinary.com/du0eae8lu/image/upload/banner-miguel-bohada-compatible_odde80.gif)
+
 
 <!--
 **AngelRojo20/AngelRojo20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
