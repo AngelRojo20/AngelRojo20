@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Banner](https://github.com/AngelRojo20/AngelRojo20/blob/main/banner-miguel-bohada.gif?raw=true)
 
 
