@@ -11,7 +11,7 @@ Apasionado por la <strong>tecnología</strong>, las <strong>matemáticas</strong
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelrojo20&show_icons=true&locale=en" alt="angelrojo20" /></p>
 
-### 🧰 Languages and Tools
+### 🚀 Mi stack de desarrollo
 
 <div align="center">
   
@@ -23,9 +23,6 @@ Apasionado por la <strong>tecnología</strong>, las <strong>matemáticas</strong
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
