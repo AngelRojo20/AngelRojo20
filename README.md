@@ -1,9 +1,11 @@
 ![Banner](https://github.com/AngelRojo20/AngelRojo20/blob/main/banner-miguel-bohada.gif?raw=true)
 
-### 🧑‍💻 Sobre mí
+<div align="center" style="background-color:#0f172a20; padding: 20px; border-radius: 12px; max-width: 800px; margin: auto; font-size: 16px; line-height: 1.6;">
 
-> Tecnólogo en formación del **SENA** en Análisis y Desarrollo de Software, con conocimientos en desarrollo web **Full Stack**.  
-> Apasionado por la **tecnología**, las **matemáticas** y el **fútbol**.
+<strong>Tecnólogo en formación del SENA</strong> en Análisis y Desarrollo de Software, con conocimientos en desarrollo web <strong>Full Stack</strong>.<br>
+Apasionado por la <strong>tecnología</strong>, las <strong>matemáticas</strong> y el <strong>fútbol</strong>.
+
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelrojo20&show_icons=true&locale=en&layout=compact" alt="angelrojo20" /></p>
 
